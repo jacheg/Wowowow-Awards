@@ -1,0 +1,93 @@
+body{
+    background-image: url(https://image.freepik.com/free-vector/celebration-background-of-balloons-and-confetti_1048-2223.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title{
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 3px 2px red;
+    text-align: center;
+    font-size: 160px;
+    background-color: rgba(170, 51, 234, .7);
+}
+
+.award1{
+    font-family: 'Alegreya', serif;
+    background-color: rgba(255, 51, 204, .7);
+    font-size: 130px;
+    text-align: center;
+    
+}
+
+.award2{
+    font-family: 'Alegreya', serif;
+    background-color: rgba(255, 51, 204, .7);
+    font-size: 130px;
+    text-align: center;
+}
+
+.award3{
+    font-family: 'Alegreya', serif;
+    background-color: rgba(255, 51, 204, .7);
+    font-size: 130px;
+    text-align: center;
+}
+
+.award4{
+    font-family: 'Alegreya', serif;
+    background-color: rgba(255, 51, 204, .7);
+    font-size: 130px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    }
+    
+.ow{
+    width: 1000px;
+    border: red solid 200px;
+    border-left: 400px red solid;
+    border-right: 400px red solid;
+}
+
+.ow:hover{
+    border-left: 300px yellow solid;
+    border-right: 300px yellow solid;
+}
+
+.bh{
+    width: 1000px;
+}
+
+.tw{
+    font-family: 'Monoton', cursive;
+    font-size: 130px;
+    text-align: center;
+    color: red;
+}
+
+.owo{
+    font-family: 'Warnes', cursive;
+    font-size: 130px;
+    text-align: center;
+    color: red;
+}
+
+.bhb{
+    font-family: 'VT323', monospace;
+    font-size: 130px;
+    text-align: center;
+    color: red;
+}
+
+.inti{
+    font-family: 'Russo One', sans-serif;
+    font-size: 130px;
+    text-align: center;
+    color: red;
+}
